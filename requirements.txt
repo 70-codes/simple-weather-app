@@ -1,0 +1,17 @@
+asgiref==3.6.0
+beautifulsoup4==4.12.0
+certifi @ file:///croot/certifi_1683875369620/work/certifi
+charset-normalizer==3.0.1
+Django==4.1.7
+django-bootstrap-v5==1.0.11
+django-mpesa==2.0.14
+djangorestframework==3.14.0
+idna==3.4
+Pillow==9.4.0
+psycopg2==2.9.6
+pytz==2022.7.1
+requests==2.28.2
+soupsieve==2.4
+sqlparse @ file:///croot/sqlparse_1668793487206/work
+tk==0.1.0
+urllib3==1.26.14
